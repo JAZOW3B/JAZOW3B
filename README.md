@@ -13,9 +13,6 @@
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%231572B6.svg?style=for-the-badge&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/c-%231572B6.svg?style=for-the-badge&logo=c&logoColor=white)
-![MASM](https://img.shields.io/badge/masm-%231572B6.svg?style=for-the-badge&logo=masm&logoColor=white)
-![ASM](https://img.shields.io/badge/asm-%231572B6.svg?style=for-the-badge&logo=asm&logoColor=white)
-
 
 ## ⚙️ Operating System :
 
