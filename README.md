@@ -13,6 +13,7 @@
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%231572B6.svg?style=for-the-badge&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/c-%231572B6.svg?style=for-the-badge&logo=c&logoColor=white)
+![PYTHON](https://img.shields.io/badge/python-%231572B6.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ## ⚙️ Operating System :
 
