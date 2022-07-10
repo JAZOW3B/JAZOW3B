@@ -30,6 +30,8 @@
 
 ## 🎲 Connect With Me :
 
+<a href="https://twitter.com/KreosM" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%23000000.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 <a href="https://github.com/JAZOW3B" target="_blank">
 <img src=https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
